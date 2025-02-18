@@ -3,7 +3,6 @@ const Dashboard = () => {
     <div>Hello fixes</div>
     <div>Hello</div>
     
-    <div>Hello </div>
     <div>Hello 3</div>
     </> );
 }
