@@ -3,10 +3,6 @@ const Dashboard = () => {
     <div>Hello fixes</div>
     <div>Hello 2</div>
     <div>Hello 3</div>
-    <div>Hello 2</div>
-    <div>Hello </div>
-    <div>Hello 2</div> 
-    <div>Hello 3</div>
     </> );
 }
  
