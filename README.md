@@ -1,2 +1,2 @@
 # nextTodoApp
-new line 
+new line 1
